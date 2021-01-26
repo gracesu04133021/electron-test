@@ -2,7 +2,7 @@
   <div id="wrapper">
     <img id="logo" src="~@/assets/logo.png" alt="electron-vue">
     <main>
-      我是苏文静的第一个桌面应用
+      我是苏文静的第一个桌面应用hahhhhah
     </main>
   </div>
 </template>
