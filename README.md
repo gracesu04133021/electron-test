@@ -1,2 +1,2 @@
 # electron-test
-  electron-test
+  electron-test-test
